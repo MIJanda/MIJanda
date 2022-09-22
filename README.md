@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Android Developer and Full Stack Web Developer.
+- 💼 &nbsp; Full Stack Web Developer & Mobile Application Developer.
 -  🔭 &nbsp; I’m currently learning Rust Application Development
 - 🤔 &nbsp; Exploring new technologies, Developing Software Solutions, and Quick Hacks.
 - 🎓 &nbsp; Studying Computer Science, Computer Programming, and Mathematics.

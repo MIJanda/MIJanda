@@ -40,9 +40,10 @@
 &nbsp; <a href="mailto:mokiliisaacjanda@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-
+<!--
 ----
 Credit: [devSouvik](https://github.com/devSouvik)
 
-<!--Last Edited on: 23/09/2020-->
+Last Edited on: 23/09/2020
+-->
 

@@ -16,9 +16,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | PHP | Rust | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android | React Native 
-- 🛢 &nbsp; MySQL | Firebase | LAMP
-- 🔧 &nbsp; Android Studio | Visual Studio Code | Git
+- 🌐 &nbsp; React JS | React Native | Laravel | YII | Django | Flask 
+- 🛢 &nbsp; MySQL | Firebase | MariaDB | LAMP
+- 🔧 &nbsp; Visual Studio Code | Git
 <!-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot -->
 
 <br>

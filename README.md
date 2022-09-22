@@ -1,16 +1,16 @@
 
         
-<h2> Hey there! I'm Mokili. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Mokili Isaac Janda. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Rust Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android Developer and Full Stack Web Developer.
+-  🔭 &nbsp; I’m currently learning Rust Application Development
+- 🤔 &nbsp; Exploring new technologies, Developing Software Solutions, and Quick Hacks.
+- 🎓 &nbsp; Studying Computer Science, Computer Programming, and Mathematics.
 - 🌱 &nbsp; Enthusiast in Cyber Security.
-- ✍️ &nbsp; Music Production as a hobby/side hustle.
+- ✍️ &nbsp; Music Production as a Hobby/Side Hustle.
 - ☕ &nbsp; I believe, a morning run can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>

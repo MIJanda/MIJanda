@@ -15,7 +15,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | PHP | Rust | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | JavaScript | PHP | Rust | HTML | CSS 
 - 🌐 &nbsp; React JS | MERN | React Native | Laravel | YII | Django | Flask | Vue JS
 - 🛢 &nbsp; MySQL | Firebase | MariaDB | LAMP
 - 🔧 &nbsp; Visual Studio Code | Git

@@ -5,19 +5,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Full Stack Web Developer & Mobile Application Developer.
--  🔭 &nbsp; I’m currently learning Rust Application Development
+- 💼 &nbsp; Full Stack Software Engineer
+-  🔭 &nbsp; I’m currently a Freelance Django Web Developer
 - 🤔 &nbsp; Exploring new technologies, Developing Software Solutions, and Quick Hacks.
-- 🎓 &nbsp; Studying Computer Science, Computer Programming, and Mathematics.
-- 🌱 &nbsp; Enthusiast in Cyber Security.
-- ✍️ &nbsp; Music Production as a Hobby/Side Hustle.
+- 🎓 &nbsp; Brushing up on Computer Science and Mathematics.
 - ☕ &nbsp; I believe, a morning run can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | PHP | Rust | HTML | CSS 
-- 🌐 &nbsp; React JS | MERN | React Native | Laravel | YII | Django | Flask | Vue JS
-- 🛢 &nbsp; MySQL | Firebase | MariaDB | LAMP
+- 🌐 &nbsp; Django| Next.js | Vue.js | React.js
+- 🛢 &nbsp; MySQL | MariaDB | LAMP | Firestore 
 - 🔧 &nbsp; Visual Studio Code | Git
 <!-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot -->
 

@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | PHP | Rust | HTML | CSS 
+- 💻 &nbsp; Python | JavaScript | PHP | Rust 
 - 🌐 &nbsp; Django| Next.js | Vue.js | React.js
 - 🛢 &nbsp; MySQL | MariaDB | LAMP | Firestore 
 - 🔧 &nbsp; Visual Studio Code | Git
